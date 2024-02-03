@@ -12,7 +12,7 @@ This project is centered around the task of predicting car prices for an automob
 2. **Model Performance:**
    - Assess how well these variables describe and predict car prices.
 
-# About Dataset
+### About Dataset
 
 The dataset provides a comprehensive array of automotive attributes. Each entry is characterized by the following columns:
 
